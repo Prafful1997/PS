@@ -7,3 +7,6 @@ Burger
 Sandwich
 
 Kheer
+
+Idli 
+Dosa
